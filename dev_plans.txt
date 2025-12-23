@@ -1,0 +1,27 @@
+# Pull the timetable of a specific student [easy]
+
+# Make changes to a particular module [hard]
+# Make changes for a particular lecturer [hard]
+
+# Have multiple lecturers in a class [medium]
+# Have multiple lecturers in a module [medium]
+
+# Integrate core and optional module dynamics [medium]
+# Module groups (i.e. shared 2nd and 3rd years) [medium]
+# Advanced grouping (shared modules between courses; I believe EM-Lyon would need this) [medium]
+
+# Able to remove particular classes [medium]
+# Able to add particular classes [medium]
+
+# Able to view periods when a lecturer and a year / student are both available [easy]
+
+# Make it visually appealing [easy]
+# Add interactions [medium]
+
+# Avoid multiple classes of the same module on the same day [hard]
+# Minimise gaps in student's timetables [hard]
+
+# Adjustable lesson lengths [very hard]
+# Adjustable start / end times [very hard]
+
+# Priority for core subjects? - e.g. morning lectures [hard]
