@@ -1,0 +1,14 @@
+﻿year_of_study,term,professor,module_name,classes_per_week
+1,winter,Ash,problems_1a,2
+1,winter,Adam,quant_1a,2
+1,winter,Kay,qual_1a,3
+2,winter,Ash,problems_2a,2
+2,winter,Waqas,conceptual_tools,2
+2,winter,Anson,intermediate_quant,3
+2,winter,Nicollo,data_science,3
+2,winter,Maria,visual_methods,3
+2,winter,David,design_thinking,3
+3,winter,James,thinking_writing,2
+3,winter,Emma,problems_3a,2
+3,winter,Anson,advanced_data_science,4
+3,winter,Nicollo,advanced_quant,3
